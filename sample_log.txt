@@ -1,0 +1,5 @@
+INFO: System started
+ERROR: Failed to load module
+WARN: Memory running low
+ERROR: Python process crashed
+INFO: System shutdown

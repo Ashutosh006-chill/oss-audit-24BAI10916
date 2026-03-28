@@ -1,0 +1,5 @@
+MY OPEN SOURCE MANIFESTO
+Date: 28 March 2026
+--------------------------------
+I believe that software should empower users, not restrict them. Every day, I rely on tools like Python to learn, build, and grow. To me, open source represents true Accessibility.
+In the spirit of a community that shares knowledge without barriers, my goal is to eventually build a Machine Learning Library and release it for anyone to use, modify, and improve. The future is open.
